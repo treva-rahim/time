@@ -1,2 +1,1 @@
-# time
-Displays current time
+
